@@ -15,7 +15,7 @@
       "location" : "https://github.com/huggingface/swift-transformers.git",
       "state" : {
         "revision" : "74b94211bdc741694ed7e700a1104c72e5ba68fe",
-        "version" : "0.1.7"
+        "version" : "1.0.0"
       }
     }
   ],
