@@ -6,7 +6,7 @@ import AVFoundation
 import CoreML
 import Foundation
 import Hub
-import TensorUtils
+import Generation
 import Tokenizers
 
 open class WhisperKit {
